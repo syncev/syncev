@@ -18,7 +18,8 @@ I'm a software development technician based in Mendoza, Argentina, with hands-on
  
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=syncev&theme=dark&hide_border=false) 
+
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
